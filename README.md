@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **dev, ml, API testing automation**
 
-- 📫 How to reach me **siva.anubothula@gmail.com**
+- 📫 How to reach me **siva.anubothula@gmail.com** &nbsp; &nbsp; &nbsp; [Linkedin](https://www.linkedin.com/in/siva-shankar-reddy-3ab861263/) &nbsp; &nbsp; &nbsp; &nbsp;[Twitter](https://x.com/siva73148082920) &nbsp; &nbsp; &nbsp; [Instagram](https://www.instagram.com/reddi_siva54/) &nbsp;
 
 <p align="left">
 
