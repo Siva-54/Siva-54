@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siva-54" alt="siva-54" /></a> </p>
 
-- 🔭 I’m currently working on **Skin care Web application**
+- 🔭 I’m currently working on **Online Learning Platform**
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS**
 
